@@ -5,6 +5,7 @@ AlgoVis. is a begginer side project created to not only help visualize and under
 Web framework. It is created using ***Python 3.8.2***, ***Django 3.0.5***, ***html5*** and ***bootstrap***.
 The project focuses on Insertion sort, Merge sort, Quick sort and Heap sort. It analyzes the time and space complexity of each algorithm. 
 
+***This webapp is not fully responsive. It is not responsive on mobile devices. It is best viewed from a desktop***
 ## Demo
 Demo of the web application is available [here](https://algovisapp.herokuapp.com/).
 ## Dependencies used  
